@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598555978 source:d:\c-language\todo app by sushant\main.c
+	<stdio.h>
+	<stdlib.h>
+

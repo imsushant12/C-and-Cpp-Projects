@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598738578 source:d:\c-language\snakegame_sushant(c++)\main.cpp
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<iostream>
+

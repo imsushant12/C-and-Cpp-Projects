@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514140574 source:d:\c-language\snakegame@sushant\main.c
+	<stdio.h>
+	<stdlib.h>
+
